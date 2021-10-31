@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[309],{4818:function(s){s.exports=JSON.parse('{"allTagsPath":"/Dinosaurs-are-cool/blog/tags","slug":"/Dinosaurs-are-cool/blog/tags/hello","name":"hello","count":2,"permalink":"/Dinosaurs-are-cool/blog/tags/hello"}')}}]);
